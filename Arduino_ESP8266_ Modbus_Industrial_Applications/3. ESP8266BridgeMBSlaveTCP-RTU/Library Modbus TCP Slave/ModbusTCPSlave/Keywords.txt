@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For Mudbus
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ModbusTCPSlave	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Run	KEYWORD2
+MBInputRegister 	KEYWORD2
+MBHoldingRegister	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MBDebug	LITERAL1
+MB_PORT	LITERAL1
