@@ -2,10 +2,6 @@
 
 Arduino ESP8266 Modbus Industrial Applications
 
-
-
-![Portada](https://github.com/JhonControl/Thinger.io_led/blob/master/extras/portada.JPG)
-
 Welcome to this space learning automation technology applied to industry and  everyday life.
 If you like electronics, home automation, automation, programming, PLC, microcontrollers, 
 Arduino, Python, Open source .... my blog will be a great help ... 
